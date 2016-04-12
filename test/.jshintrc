@@ -1,0 +1,10 @@
+{
+    "esnext": true,
+    "laxcomma": true,
+    "unused": true,
+    "undef": true,
+    "node": true,
+    "predef": [
+        "describe", "before", "it", "expect"
+    ]
+}

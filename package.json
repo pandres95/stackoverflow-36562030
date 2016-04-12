@@ -1,0 +1,22 @@
+{
+  "name": "stackoverflow-36562030",
+  "version": "1.0.0",
+  "description": "Answer to www.stackoverflow.com/questions/36562030",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
